@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  mysql-container:
+    image: mysql
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+    container_name: mysql-container
+    restart: always
+
+  qumrica-container:
+    image: qumranica/sqe-database
+    ports:
+      - "3307:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+    container_name: qumrica-container
+    restart: always
