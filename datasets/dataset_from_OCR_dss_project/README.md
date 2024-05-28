@@ -10,3 +10,6 @@ http://yann.lecun.com/exdb/mnist/ (to download them, go through archive.org)
 
 
 From the project : https://github.com/yeshipursley/image-analysis-DSS
+
+Also, in the modified_files, you can find : 
+- MachineLearning code modifications from the OCR project. In this new version, we can use a custom dataset from the datasets folder.
