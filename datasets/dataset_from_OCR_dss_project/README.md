@@ -1,4 +1,4 @@
-Datasets from the OCR project : 
+Datasets from the OCR project, The MNIST database of handwritten digits : 
 
 https://ossci-datasets.s3.amazonaws.com/mnist/train-images-idx3-ubyte.gz
 https://ossci-datasets.s3.amazonaws.com/mnist/train-labels-idx1-ubyte.gz
