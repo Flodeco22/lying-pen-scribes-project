@@ -1,0 +1,3 @@
+https://fr.wikipedia.org/wiki/Jeux_d%27entrainement,_de_validation_et_de_test
+https://fr.wikipedia.org/wiki/Surapprentissage
+https://fr.wikipedia.org/wiki/Weight_decay
